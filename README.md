@@ -1,4 +1,5 @@
-Google Login Authorization Project
+<strong>Google Login Authorization Project</strong>
+
 This project implements Google Login authorization to restrict access to a specific area of the application. It serves as a trial version designed to manage user authentication.
 
 Please note that the Google Cloud Console is configured in non-production mode, which limits permissions for user entry.
